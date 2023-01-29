@@ -23,7 +23,7 @@ import java.util.*
 class FragmentHeadline : Fragment() {
 
     companion object {
-        const val API_KEY = "API KEY ada di Video YT"
+        const val API_KEY = "3619749487484be2a65ab98a242a7e55"
     }
 
     var strCountry: String? = null

@@ -45,7 +45,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15dp"
-                android:text="Azhar Rivaldi - CNN Indonesia"
+                android:text="CNN Indonesia"
                 android:textSize="12sp" />
 
             <LinearLayout

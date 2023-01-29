@@ -1,1 +1,1 @@
-# VIX-Schoters-RyandiAziz
+# VIX-Schoters-Ryandi Aziz

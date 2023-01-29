@@ -23,7 +23,7 @@ import java.util.*
 class FragmentTechnology : Fragment() {
 
     companion object {
-        const val API_KEY = "API KEY ada di Video YT"
+        const val API_KEY = "3619749487484be2a65ab98a242a7e55"
     }
 
     var strCategory = "technology"
